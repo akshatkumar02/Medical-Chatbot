@@ -1,6 +1,6 @@
 flask
 nltk
-scikit-learn==1.2.2
+scikit-learn
 pandas
 numpy
 gunicorn
